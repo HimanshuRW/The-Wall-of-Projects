@@ -443,6 +443,15 @@ const projects = [
     codeLink: "https://github.com/vib795/Password-Manager",
     liveLink: "",
   },
+  {
+      name: "Sorting Algorithim Visualiser",
+      image: "./images/Gravity.jpg", // Add your project image to the `images` directory
+      description: "Two Particles can freely move space under gravity",
+      usedTech: "HTML / CSS / JS",
+      contributorName: "Himanshu Rawat",
+      codeLink: "https://github.com/HimanshuRW/Gravity_simulator/",
+      liveLink: "https://himanshurw.github.io/Gravity_simulator/",
+    },
   // Manually add more projects here
   // Please avoid putting your projects at the very beginning or the end of the file. Instead, insert them in the middle.
   // {
